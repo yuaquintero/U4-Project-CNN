@@ -7,3 +7,7 @@ The training data set contains 14034 imagens of size 150x150 and the dataset to 
 ## Model
 
 The model it's a CNN with two convolutional layers with 32 and 64 neurons. Two maxpolling layers and one fully conected layer with 256 neurons.
+
+## Results
+
+In the first train, Overfit is evident, so transformations were made using the Keras ImageDataGenerator class. This notebook shows the results of both experiments
