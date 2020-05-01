@@ -11,3 +11,8 @@ The model it's a CNN with two convolutional layers with 32 and 64 neurons. Two m
 ## Results
 
 In the first train, Overfit is evident, so transformations were made using the Keras ImageDataGenerator class. This notebook shows the results of both experiments
+
+
+### autor
+Yudy Quintero
+UDEA
